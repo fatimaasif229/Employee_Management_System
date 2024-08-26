@@ -1,0 +1,48 @@
+Name: ali
+Address: karachi
+Date of Birth (dd/mm/yyyy): 11/12/97
+Employee ID: 676
+Date of joining (dd/mm/yyyy): 12/12/22
+Department: ux
+Work Location: london
+Social Insurance Number: 998
+Email: ali@gmail.com
+Hours Worked: 98
+Salary: 0
+
+Name: Asif
+Address: Nadeem
+Date of Birth (dd/mm/yyyy): 10/01/2021
+Employee ID: 123
+Date of joining (dd/mm/yyyy): 12/12/2022
+Department: asd
+Work Location: aa
+Social Insurance Number: 123
+Email: abc@123.com
+Hours Worked: 12
+Salary: 0
+
+Name: Asif
+Address: islamabad
+Date of Birth (dd/mm/yyyy): 10/11/1998
+Employee ID: 12
+Date of joining (dd/mm/yyyy): 12/12/2021
+Department: UX
+Work Location: asd
+Social Insurance Number: 11
+Email: asd@123
+Hours Worked: 55
+Salary: 1100
+
+Name: a
+Address: asd
+Date of Birth (dd/mm/yyyy): 1/1/21
+Employee ID: 12
+Date of joining (dd/mm/yyyy): 1/1/22
+Department: Finance
+Work Location: qw
+Social Insurance Number: 12
+Email: a
+Hours Worked: 66
+Salary: 1584
+
